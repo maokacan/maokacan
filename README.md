@@ -8,7 +8,7 @@
 - 🐍 **Snake Game:** Классическая игра "Змейка" с интерфейсом на `ncurses`, скоро будет GUI на Qt.
 
 ### 📈 Мои цели
-- Создавать проект, полезный другим разработчикам
+- Создавать проекты, полезные другим разработчикам
 
 ### 🔧 Технологии и навыки
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -18,8 +18,8 @@
 ![macOS](https://img.shields.io/badge/macOS-gray?style=for-the-badge&logo=apple&logoColor=white)
 
 ### 📫 Как связаться со мной
-- **Telegram:** [@chrstfr](https://t.me/ТвойТГ)
-- **Email:** [mirsky.kir@yandex.ru](mailto:ТвойEmail@example.com)
+- **Telegram:** [@chrstfr](https://t.me/@chrstfr)
+- **Email:** [mirsky.kir@yandex.ru](mailto:mirsky.kir@yandex.ru)
   
 ### ⚡ Мои интересы
 - Алгоритмы и структуры данных
